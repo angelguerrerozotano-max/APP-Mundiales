@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Historia Mundiales",
+  "description": "Una aplicación premium para explorar la rica historia de la Copa Mundial de la FIFA, con perfiles de jugadores, equipos, estadísticas y momentos inolvidables.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
